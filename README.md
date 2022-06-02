@@ -14,6 +14,8 @@ A curated list of ressources about using graphs to represent data in the AEC (Ar
 
 ## Tools and Technologies
 
+- [BHoM](https://github.com/BHoM/BHoM)
+
 - [Topologic](https://topologic.app/software/); Software for
 
 - [IFCOpenShell](https://ifcopenshell.org/); Open Source IFC toolkit and geometry engine. Helpful when integrating graphs with IFC.
