@@ -1,6 +1,6 @@
 # awesome-building-as-a-graph
 
-A curated list of ressources about using graphs to represent data in the AEC (Architecture, Engineering, Construction) domain. Testing again
+A curated list of ressources about using graphs to represent data in the AEC (Architecture, Engineering, Construction) domain.
 
 
 ## Research groups and projects
@@ -42,7 +42,7 @@ General pros and cons goes here
 
 - Krijnen and Beetz, [“A SPARQL Query Engine for Binary-Formatted IFC Building Models.”](https://linkinghub.elsevier.com/retrieve/pii/S092658051731049X)
 - Guo, Onstein, and Rosa, [“An Approach of Automatic SPARQL Generation for BIM Data Extraction.”](https://www.mdpi.com/2076-3417/10/24/8794)
-- Bonduel et al., “The IFC to Linked Building Data Converter - Current Status.”; (http://ceur-ws.org/Vol-2159/04paper.pdf); Focus on IFC to RDF conversion
+- Bonduel et al., [“The IFC to Linked Building Data Converter - Current Status.”](http://ceur-ws.org/Vol-2159/04paper.pdf); Focus on IFC to RDF conversion
 
 
 ## Glossary
