@@ -1,6 +1,6 @@
 # awesome-building-as-a-graph
 
-A curated list of ressources about using graphs to represent data in the AEC (Architecture, Engineering, Construction) domain.
+A curated list of ressources about using graphs to represent data in the AEC (Architecture, Engineering, Construction) domain. Testing
 
 
 ## Research groups and projects
