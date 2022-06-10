@@ -14,12 +14,15 @@ A curated list of ressources about using graphs to represent data in the AEC (Ar
 
 ## Tools and Technologies
 
-- [BHoM](https://github.com/BHoM/BHoM)
+- [BHoM](https://github.com/BHoM/BHoM); Open source interoperability framework for creating, and sharing data related to the built environment.
 
 - [Topologic](https://topologic.app/software/); Software for
 
 - [IFCOpenShell](https://ifcopenshell.org/); Open Source IFC toolkit and geometry engine. Helpful when integrating graphs with IFC.
+
 - [linked data bim web applicatoin](https://ld-bim.web.app/); Online tool to render IFC files and query these (e.g. via SPARQL)
+
+- [Archilogic](https://www.archilogic.com/); A tool for space planning. Recently new features have been created to desplay layouts in graph data as well. (see [lin](khttps://www.linkedin.com/posts/atfritsch_3dmodels-graphdatabase-javascript-activity-6937417840807288832-7aEM?utm_source=linkedin_share&utm_medium=member_desktop_web))
 
 ## Learning Sources
 
